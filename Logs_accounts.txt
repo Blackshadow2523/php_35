@@ -1,8 +1,8 @@
 {
     "triggeredinsaan4321@outlook.com": {
-        "Last check": "2023-05-05",
-        "Today's points": 530,
-        "Points": 2713
+        "Last check": "2023-05-06",
+        "Today's points": 440,
+        "Points": 3153
     },
-    "Elapsed time": "00:12:46"
+    "Elapsed time": "00:11:33"
 }
